@@ -20,9 +20,10 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name             | GitHub        | Organization       | Location              |
-| :--------------- | :------------ | :----------------- | :-------------------- |
-| Benjie Gillam (Host) | @benjie   | Graphile           | Chandler's Ford, UK   |
+| Name                 | GitHub          | Organization       | Location              |
+| :------------------- | :-------------- | :----------------- | :-------------------- |
+| Benjie Gillam (Host) | @benjie         | Graphile           | Chandler's Ford, UK   |
+| Pascal Senn          | @pascalsenn     | ChilliCream        | Zurich, CH            |
 
 
 ## Agenda
