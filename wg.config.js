@@ -2,17 +2,17 @@
 
 /** @type {import('wgutils').Config} */
 const config = {
-  name: "NAME OF WG",
-  repoUrl: "https://github.com/graphql/...",
-  videoConferenceDetails: `https://zoom.us/j/...
-  - _Password:_ ...`,
-  liveNotesUrl: "https://docs.google.com/document/d/...",
+  name: "Golden Path WG",
+  repoUrl: "https://github.com/graphql/golden-path-wg",
+  videoConferenceDetails: `https://zoom.us/j/97928489872?pwd=WVsGN8orE4qxbDN8stuGlu1yKwTYbT.1
+  - _Password:_ golden`,
+  liveNotesUrl: "https://docs.google.com/document/d/19KR1CI624Oyi096FomvGKvKB3cxMu_E-60Y4VG1Upjw/edit?usp=sharing",
   timezone: "US/Pacific",
   frequency: "monthly",
   // For "last" set nth to -1
-  nth: 1,
+  nth: 2,
   weekday: "Th", // M, Tu, W, Th, F, Sa, Su
-  time: "10:30-12:00", // 24-hour clock, range
+  time: "10:30-11:30", // 24-hour clock, range
   attendeesTemplate: `\
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
