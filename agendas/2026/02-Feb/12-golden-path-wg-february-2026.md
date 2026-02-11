@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam (Host) | @benjie   | Graphile           | Chandler's Ford, UK   |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY, US      |
+| Mark Larah       | @magicmark    |   Yelp             | Austin, TX, US        |
 
 
 ## Agenda
