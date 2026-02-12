@@ -27,9 +27,10 @@
 | Mark Larah       | @magicmark    |   Yelp             | Austin, TX, US        |
 | Laurin Quast     | @n1ru4l       | The Guild          | Germany               |
 | Emily Goodwin    | @egoodwinx    | N/A                | Toronto, ON, CAN      |
-| Pascal Senn          | @pascalsenn     | ChilliCream        | Zurich, CH            |
+| Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich, CH            |
 | Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO, US       |
+| Michael Staib    | @michaelstaib | ChilliCream        | Zurich, CH            |
 
 ## Agenda
 
