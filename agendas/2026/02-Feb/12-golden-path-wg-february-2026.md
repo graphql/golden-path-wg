@@ -20,11 +20,14 @@
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name                 | GitHub          | Organization       | Location              |
-| :------------------- | :-------------- | :----------------- | :-------------------- |
-| Benjie Gillam (Host) | @benjie         | Graphile           | Chandler's Ford, UK   |
+| Name             | GitHub        | Organization       | Location              |
+| :--------------- | :------------ | :----------------- | :-------------------- |
+| Benjie Gillam (Host) | @benjie   | Graphile           | Chandler's Ford, UK   |
+| Matt Mahoney     | @mjmahone     | Meta               | New York, NY, US      |
+| Mark Larah       | @magicmark    |   Yelp             | Austin, TX, US        |
+| Laurin Quast     | @n1ru4l       | The Guild          | Germany               |
+| Emily Goodwin    | @egoodwinx    | N/A                | Toronto, ON, CAN      |
 | Pascal Senn          | @pascalsenn     | ChilliCream        | Zurich, CH            |
-
 
 ## Agenda
 
@@ -40,4 +43,5 @@
 1. Check for [ready for review agenda items](https://github.com/graphql/golden-path-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
 1. Reminder: [grants available for key initiatives](https://graphql.org/community/foundation/community-grant/) (1m, Host)
 1. Introduction of the WG (5m, Benjie)
-1. Defining goals, audience, key problems, and key solutions/patterns/techniques (Remainder, Benjie)
+1. Defining goals, audience, key problems, and key solutions/patterns/techniques (30m, Benjie)
+1. Outreach: getting buy-in and involvement from the audience (10m, Benjie)
