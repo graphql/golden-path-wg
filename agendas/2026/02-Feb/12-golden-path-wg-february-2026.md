@@ -29,6 +29,7 @@
 | Emily Goodwin    | @egoodwinx    | N/A                | Toronto, ON, CAN      |
 | Pascal Senn          | @pascalsenn     | ChilliCream        | Zurich, CH            |
 | Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
+| Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO, US       |
 
 ## Agenda
 
