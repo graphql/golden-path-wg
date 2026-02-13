@@ -30,6 +30,7 @@
 | Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich, CH            |
 | Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR             |
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO, US       |
+| Uri Goldshtein   | @urigo        | The Guild          | Tel Aviv, IL          |
 | Michael Staib    | @michaelstaib | ChilliCream        | Zurich, CH            |
 
 ## Agenda
