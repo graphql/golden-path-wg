@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Jerel Miller    | @jerelmiller       | Apollo           | Windsor, CO, USA   |
 | Mark Larah       | @magicmark    | Yelp               | Austin TX USA  |
 
 
