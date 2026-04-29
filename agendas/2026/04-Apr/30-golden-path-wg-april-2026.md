@@ -1,9 +1,9 @@
 | This is an open meeting: To attend, edit and PR this file. (Edit: ✎ above, or press "e") |
 | ---------------------------------------------------------------------------------------- |
 
-# Golden Path WG — March 2026
+# Golden Path WG — April 2026
 
-- **Date & Time**: [March 12, 2026, 10:30 – 11:30 AM PDT](https://www.timeanddate.com/worldclock/converter.html?iso=20260312T173000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
+- **Date & Time**: [April 30, 2026, 10:30 – 11:30 AM PDT](https://www.timeanddate.com/worldclock/converter.html?iso=20260430T173000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
   - View the [calendar][], or subscribe ([Google Calendar][], [ical file][]).
   - _Please Note:_ The date or time may change. Please check this agenda the
     week of the meeting to confirm. While we try to keep all calendars accurate,
@@ -23,9 +23,6 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
-| Mark Larah       | @magicmark    | Yelp               | Austin TX USA         |
-| Jean Lucas Lima  | @jeanlucaslima | Viaduct           | São Paulo, SP, Brazil |
-| Jerel Miller    | @jerelmiller       | Apollo           | Windsor, CO, USA   |
 
 
 ## Agenda
@@ -41,3 +38,8 @@
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/golden-path-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
 1. Reminder: [grants available for key initiatives](https://graphql.org/community/foundation/community-grant/) (1m, Host)
+1. Golden Path is now open to contribution! (5m, Benjie)
+   - https://github.com/graphql/golden-path
+1. Discussion of structure, terminology, and detail (15m, Benjie)
+1. Review of currently proposed practices (15m, Benjie)
+1. Discussion of additional practices (15m, Benjie)
