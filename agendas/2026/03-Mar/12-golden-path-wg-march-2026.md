@@ -23,8 +23,9 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Mark Larah       | @magicmark    | Yelp               | Austin TX USA         |
+| Jean Lucas Lima  | @jeanlucaslima | Viaduct           | São Paulo, SP, Brazil |
 | Jerel Miller    | @jerelmiller       | Apollo           | Windsor, CO, USA   |
-| Mark Larah       | @magicmark    | Yelp               | Austin TX USA  |
 
 
 ## Agenda
