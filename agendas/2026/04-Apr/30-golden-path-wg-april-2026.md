@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Jerel Miller    | @jerelmiller       | Apollo           | Colorado, USA   |
+| Martin Bonnin    | @martinbonnin       | Apollo           | Paris, FR   |
 
 
 ## Agenda
