@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Jerel Miller | @jerelmiller | Apollo | Colorado, USA |
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Mark Larah    | @magicmark       | Yelp           | Austin, USA   |
 
 
 ## Agenda
