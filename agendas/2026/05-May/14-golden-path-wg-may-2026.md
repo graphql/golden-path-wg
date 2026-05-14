@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Jerel Miller | @jerelmiller | Apollo | Colorado, USA |
 
 
 ## Agenda
