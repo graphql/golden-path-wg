@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Janette Cheng    | @janettec     | Meta               | New York, NY          |
 
 
 ## Agenda
