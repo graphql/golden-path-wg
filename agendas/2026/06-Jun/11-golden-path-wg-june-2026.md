@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Janette Cheng    | @janettec     | Meta               | New York, NY          |
+| Matt Mahoney     | @mjmahone     | Meta               | New York, NY          |
 
 
 ## Agenda
