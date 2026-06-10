@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Janette Cheng    | @janettec     | Meta               | New York, NY          |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY          |
+| Kevin Gorham     | @gmale        | Meta               | Fishers, IN           |
 
 
 ## Agenda
