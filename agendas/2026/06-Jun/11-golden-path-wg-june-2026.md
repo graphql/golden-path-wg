@@ -25,6 +25,8 @@
 | Janette Cheng    | @janettec     | Meta               | New York, NY          |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY          |
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
+| Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich, CH            |
+| Michael Staib    | @michaelstaib | ChilliCream        | Zurich, CH            |
 
 
 ## Agenda
