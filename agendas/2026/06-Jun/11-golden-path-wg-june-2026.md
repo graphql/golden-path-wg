@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Janette Cheng    | @janettec     | Meta               | New York, NY          |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY          |
+| Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
 
 
 ## Agenda
