@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Benjie Gillam (Host) | @benjie   | Graphile           | Chandler's Ford, UK   |
 | Janette Cheng    | @janettec     | Meta               | New York, NY          |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY          |
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
