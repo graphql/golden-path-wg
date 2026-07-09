@@ -26,6 +26,7 @@
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich                |
 | Michael Staib    | @michaelstaib | ChilliCream        | Zurich                |
+| Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
 
 
 ## Agenda
