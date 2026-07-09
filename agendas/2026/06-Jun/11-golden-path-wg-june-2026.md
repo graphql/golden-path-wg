@@ -25,6 +25,7 @@
 | Benjie Gillam (Host) | @benjie   | Graphile           | Chandler's Ford, UK   |
 | Janette Cheng    | @janettec     | Meta               | New York, NY          |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY          |
+| Kevin Gorham     | @gmale        | Meta               | Fishers, IN           |
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
 | Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich, CH            |
 | Michael Staib    | @michaelstaib | ChilliCream        | Zurich, CH            |
