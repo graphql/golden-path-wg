@@ -27,6 +27,7 @@
 | Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich                |
 | Michael Staib    | @michaelstaib | ChilliCream        | Zurich                |
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
+| Mark Larah       | @magicmark    | Yelp               | Austin, TX, US        |
 
 
 ## Agenda
