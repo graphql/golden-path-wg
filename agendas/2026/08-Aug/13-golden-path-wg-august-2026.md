@@ -22,6 +22,7 @@
 <!-- prettier-ignore -->
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
+| Matt Mahoney     | @mjmahone     | Meta               | New York, NY, US      |
 
 
 ## Agenda
