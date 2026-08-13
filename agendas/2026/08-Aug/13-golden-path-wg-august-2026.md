@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Matt Mahoney     | @mjmahone     | Meta               | New York, NY, US      |
 | Benjie Gillam    | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO, US       |
 
 
 ## Agenda
