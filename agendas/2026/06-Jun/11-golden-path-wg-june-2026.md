@@ -28,6 +28,7 @@
 | Jerel Miller     | @jerelmiller  | Apollo             | Windsor, CO           |
 | Pascal Senn      | @pascalsenn   | ChilliCream        | Zurich, CH            |
 | Michael Staib    | @michaelstaib | ChilliCream        | Zurich, CH            |
+| Kevin Gorham     | @gmale        | Meta               | Fishers, IN           |
 
 
 ## Agenda
