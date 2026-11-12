@@ -23,6 +23,7 @@
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Jerel Miller | @jerelmiller | Apollo | Windsor, CO |
+| Emily Goodwin | @egoodwinx | N/A | Toronto, ON |
 
 
 ## Agenda
