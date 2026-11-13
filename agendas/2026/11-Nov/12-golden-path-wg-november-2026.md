@@ -24,6 +24,7 @@
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Jerel Miller | @jerelmiller | Apollo | Windsor, CO |
 | Emily Goodwin | @egoodwinx | N/A | Toronto, ON |
+| Benjie Gillam | @benjie | Graphile | Chandler's Ford, UK |
 
 
 ## Agenda
